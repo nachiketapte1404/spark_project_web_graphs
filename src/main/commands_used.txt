@@ -1,0 +1,28 @@
+  hdfs dfs -mkdir -p /datasets
+  hdfs dfs -put /home/hadoop/Documents/datasets/web-Google.txt /datasets/web-Google.txt
+  hdfs dfs -put /home/hadoop/Documents/datasets/web-NotreDame.txt /datasets/web-NotreDame.txt
+
+
+hadoop fs -rm /datasets/web-Google.txt
+hadoop fs -rm /datasets/web-NotreDame.txt
+hdfs dfs -mkdir -p /spark-logs
+
+spark-submit \
+  --class com.nachiket.Graph_Metrics_App \
+  --master yarn \
+  --deploy-mode cluster \
+  /home/hadoop/Documents/spark_project_1/target/project_1-1.0-SNAPSHOT.jar
+
+
+spark-submit \
+  --class com.nachiket.CommunityDetection \
+  --master yarn \
+  --deploy-mode cluster \
+  /home/hadoop/Documents/spark_project_1/target/project_1-1.0-SNAPSHOT.jar
+
+
+spark-submit \
+  --class com.nachiket.PageRank1 \
+  --master yarn \
+  --deploy-mode cluster \
+  /home/hadoop/Documents/spark_project_1/target/project_1-1.0-SNAPSHOT.jar

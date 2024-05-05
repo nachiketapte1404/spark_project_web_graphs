@@ -1,0 +1,26 @@
+
+For graph 1: 
+Top 10 PageRank scores: 
+Vertex: 41909 has PageRank score: 1171.6290669734126
+Vertex: 597621 has PageRank score: 964.9979945917001
+Vertex: 384666 has PageRank score: 955.3704323882854
+Vertex: 537039 has PageRank score: 906.1851485473264
+Vertex: 504140 has PageRank score: 831.7210887812112
+Vertex: 163075 has PageRank score: 825.6868860270216
+Vertex: 486980 has PageRank score: 779.5496658499401
+Vertex: 905628 has PageRank score: 774.0952819301036
+Vertex: 32163 has PageRank score: 758.331898194785
+Vertex: 765334 has PageRank score: 754.8620624621336
+
+For graph 2: 
+Top 10 PageRank scores: 
+Vertex: 10336 has PageRank score: 6507.486415529442
+Vertex: 212843 has PageRank score: 4313.495798028301
+Vertex: 0 has PageRank score: 1928.2976815760833
+Vertex: 12129 has PageRank score: 1773.3062825026602
+Vertex: 24823 has PageRank score: 1564.1071339346795
+Vertex: 1963 has PageRank score: 1522.3026328401102
+Vertex: 1973 has PageRank score: 1093.0131074986139
+Vertex: 3451 has PageRank score: 1012.2792432445527
+Vertex: 124802 has PageRank score: 949.3009377304084
+Vertex: 149039 has PageRank score: 839.5667609733129

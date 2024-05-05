@@ -1,0 +1,20 @@
+
+Stats for graph 1: 
+Nodes: 875713
+Edges: 5105039
+Nodes in largest WCC: 875713 (1.0)
+Edges in largest WCC: 5105039 (1.0)
+Number of triangles: 5105039
+Fraction of closed triangles: 5.829580010802626
+
+
+
+Stats for graph 2: 
+Nodes: 325729
+Edges: 1497134
+Nodes in largest WCC: 325729 (1.0)
+Edges in largest WCC: 1497134 (1.0)
+Number of triangles: 1497134
+Fraction of closed triangles: 4.596256397189074
+
+

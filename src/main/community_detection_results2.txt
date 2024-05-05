@@ -1,0 +1,4 @@
+
+For graph 1 : 
+Number of communities: 1
+Community ID: 0 has 325729 nodes
