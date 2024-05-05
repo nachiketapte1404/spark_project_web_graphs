@@ -1,5 +1,5 @@
 This is a project to run web graphs on Spark using hadoop cluster
-The project has been done by 4th year students of IIIT Dharwad
+The project has been done by 4th year students of IIIT Dharwad <br>
 Team Members:
 Ayush Singh
 Avinash Tiwari and
